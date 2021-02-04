@@ -1,3 +1,3 @@
 import { createContext } from "react";
 
-export const cartContext = useContext();
+export const cartContext = createContext();
